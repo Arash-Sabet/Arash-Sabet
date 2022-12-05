@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏠 I live in Toronto 🇨🇦
+- 🔭 I’m currently running a consulting firm to transform businesses with cloud-native application modernization
+- 🌱 I’m currently learning whatever that takes me to the next level in both tech and business
+- 💬 Ask me about Azure Cloud, .NET, ASP.NET, CosmosDB, NoSQL, Cloud Serverless Solutions ...
+- 📫 How to reach me: Twitter: [@ArashSabet](https://twitter.com/arashsabet), and [LinkedIn](https://www.linkedin.com/in/arashsabet/)
+- ⚡ Fun fact: Love traveling :airplane: ! Love Nature! Love :sushi: | Love hiking throughout the endless trails of [Algonquin Park](https://www.ontarioparks.com/park/algonquin) :national_park:
+- 🟠 [Inject dependencies to your Xunit tests](https://github.com/Umplify/xunit-dependency-injection)
