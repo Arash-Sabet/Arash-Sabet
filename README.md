@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning whatever that takes me to the next level in both tech and business
 - 💬 Ask me about Azure Cloud, .NET, ASP.NET, CosmosDB, NoSQL, Cloud Serverless Solutions ...
 - 📫 How to reach me: Twitter: [@ArashSabet](https://twitter.com/arashsabet), and [LinkedIn](https://www.linkedin.com/in/arashsabet/)
-- ⚡ Fun fact: Love traveling :airplane: ! Love Nature! Love :sushi:
-- 🟠 [Inject dependencies to your Xunit tests](https://github.com/Umplify/xunit-dependency-injection)
+- 🟠 [Inject dependencies to Xunit tests](https://github.com/Umplify/xunit-dependency-injection)
 - ❓Got a question for me? Just file an issue right [here](https://github.com/Arash-Sabet/Arash-Sabet/issues/new)
+- ⚡ Fun fact: Love traveling :airplane: 🌴 - Love Nature 🌲 - Love :sushi:
