@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter: [@ArashSabet](https://twitter.com/arashsabet), and [LinkedIn](https://www.linkedin.com/in/arashsabet/)
 - ⚡ Fun fact: Love traveling :airplane: ! Love Nature! Love :sushi: | Love hiking throughout the endless trails of [Algonquin Park](https://www.ontarioparks.com/park/algonquin) :national_park:
 - 🟠 [Inject dependencies to your Xunit tests](https://github.com/Umplify/xunit-dependency-injection)
+- ❓Got a question for me? Just file an issue right [here](https://github.com/Arash-Sabet/Arash-Sabet/issues/new)
