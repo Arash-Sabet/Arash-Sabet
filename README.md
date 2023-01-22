@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 [![Arash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arash-Sabet&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/arash-sabet/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-Sabet&theme=dark)](https://github.com/Arash-Sabet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-Sabet&theme=dark&langs_count=10&layout=compact)](https://github.com/Arash-Sabet/github-readme-stats)
