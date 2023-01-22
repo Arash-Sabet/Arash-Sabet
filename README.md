@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 - 🟠 [Inject dependencies to Xunit tests](https://github.com/Umplify/xunit-dependency-injection)
 - ❓Got a question for me? Just file an issue right [here](https://github.com/Arash-Sabet/Arash-Sabet/issues/new)
 - ⚡ Fun fact: Love traveling :airplane: 🌴 - Love Nature 🌲 - Love :sushi:
+
+[![Arash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arash-Sabet&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/arash-sabet/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-Sabet&theme=dark)](https://github.com/Arash-Sabet/github-readme-stats)
