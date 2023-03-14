@@ -25,7 +25,3 @@ Here are some ideas to get you started:
 [![Xunit.Microsoft.DependencyInjection on fuget.org](https://www.fuget.org/packages/Xunit.Microsoft.DependencyInjection/badge.svg)](https://www.fuget.org/packages/Xunit.Microsoft.DependencyInjection)
 - ❓Got a question for me? Just file an issue right [here](https://github.com/Arash-Sabet/Arash-Sabet/issues/new)
 - ⚡ Fun fact: Love traveling :airplane: 🌴 - Love Nature 🌲 - Love :sushi:
-
-[![Arash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arash-Sabet&hide=stars&count_private=true&show_icons=true&theme=calm&hide_rank=true)](https://github.com/arash-sabet)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-Sabet&theme=calm&langs_count=10&layout=compact)](https://github.com/Arash-Sabet)
